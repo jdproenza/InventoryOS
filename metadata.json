@@ -1,0 +1,5 @@
+{
+  "name": "InventoryOS",
+  "description": "El sistema operativo para la gestión moderna de inventarios. Gestione stock, usuarios y almacenes con precisión real.",
+  "requestFramePermissions": []
+}
